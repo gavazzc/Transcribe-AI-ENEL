@@ -1,4 +1,4 @@
-# Amazon Transcribe and Amazon Augmente AI integration
+# Amazon Transcribe and Amazon Augmented AI integration
 
 This is a Jupyter Notebook created for an italian customer who needed
 to create an automatic creation of internal videos (italian language)
