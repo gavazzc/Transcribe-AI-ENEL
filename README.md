@@ -1,4 +1,5 @@
-# Transcribe-AI-ENEL
+# Amazon Transcribe and Amazon Augmente AI integration
+
 This is a Jupyter Notebook created for an italian customer who needed
 to create an automatic creation of internal videos (italian language)
 and creation of human reviews in order to validate/review words with low
